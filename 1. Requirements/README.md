@@ -19,3 +19,5 @@ It does not include trigometric functions, exponents, log and natural log
 ## High level requirement
 - Should be able to implement operation
 - Should give the correct output
+- User should be able to see operation list
+- User should be able to choose correct operation
