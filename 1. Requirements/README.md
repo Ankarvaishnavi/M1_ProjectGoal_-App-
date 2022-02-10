@@ -13,7 +13,7 @@ https://www.javatpoint.com/calculator-program-in-c
 
 ## Swot Analysis:
 #### Sreangth 
-This scientific calculator is user friendly, innovative. It is also efficient and fast in response.
+This scientific calculator is easy to handle and innovative 
 #### Weakness
 It does not include trigometric functions, exponents, log and natural log
 
@@ -24,4 +24,4 @@ It does not include trigometric functions, exponents, log and natural log
 - The user must be able to select the proper operation
 
 ## Low level requirement
-- 
+- Program should run properly
