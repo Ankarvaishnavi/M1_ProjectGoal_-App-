@@ -1,4 +1,15 @@
-#include "operation.h" 
+/**
+ * @file main.c
+ * @author vaishnavi ankar (vaishnaviankar2@gmail.com)
+ * @brief To make a scientific calculator for doing some mathematical operations
+ * @version 0.1
+ * @date 2022-02-10
+ * 
+ * @copyright Copyright (c) 2022
+ * 
+ */
+
+#include "operation.h" // Prefered for user header files
 #include<stdio.h>
 #include<stdlib.h>
 #include<math.h>

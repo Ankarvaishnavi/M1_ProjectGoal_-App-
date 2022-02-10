@@ -1,6 +1,17 @@
+/**
+ * @file operation.h
+ * @author vaishnavi ankar(vaishnaviankar2@gmail.com)
+ * @brief operations of calculator
+ * @version 0.1
+ * @date 2022-02-10
+ * 
+ * @copyright Copyright (c) 2022
+ * 
+ */
 #include<stdio.h>
 #include<math.h>
 #include <stdlib.h>
+
 void addition(){
     printf("Enter the numbers you want to add: ");
     int number1, number2;
