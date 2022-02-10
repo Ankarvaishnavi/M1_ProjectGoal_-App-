@@ -19,6 +19,7 @@ It does not include trigometric functions, exponents, log and natural log
 #### Opportunities
 We can you scientific operation as well as basic operation. The technology is involved marketing
 
+
 ## High level requirement
 - Should be able to implement operation
 - Should give the correct output
