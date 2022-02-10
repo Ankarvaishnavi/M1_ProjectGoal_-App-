@@ -16,6 +16,8 @@ https://www.javatpoint.com/calculator-program-in-c
 This scientific calculator is easy to handle and innovative 
 #### Weakness
 It does not include trigometric functions, exponents, log and natural log
+#### Opportunities
+We can you scientific operation as well as basic operation. The technology is involved marketing
 
 ## High level requirement
 - Should be able to implement operation
@@ -25,3 +27,12 @@ It does not include trigometric functions, exponents, log and natural log
 
 ## Low level requirement
 - Program should run properly
+
+## 4 W's 1 H
+- What: Scientific calculator
+- Where: School, labs etc.
+- When: While performing any calculations
+- Why: To get a quick answer of the mathematical operation
+- How: It will ask input from the user like it will ask for any number to choose any operator and then it will as for the numbers which are to be operated 
+
+
