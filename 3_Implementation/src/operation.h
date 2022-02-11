@@ -1,7 +1,7 @@
 /**
- * @file operation.h
- * @author vaishnavi ankar(vaishnaviankar2@gmail.com)
- * @brief operations of calculator
+ * @file main.c
+ * @author vaishnavi ankar (vaishnaviankar2@gmail.com)
+ * @brief To make a scientific calculator for doing some mathematical operations
  * @version 0.1
  * @date 2022-02-10
  * 
