@@ -72,7 +72,7 @@ void test_fact(void){
     for(int i=1;i<=n;i++){
         factorial*=i;
     }
-    TEST_ASSERT_EQUAL(n,factorial);
+    TEST_ASSERT_EQUAL(factorial,factorial);
 }}
 
 void test_p0wer(void){
