@@ -46,12 +46,15 @@ void factorial(){
     int n, factorial;
     printf("Enter the number you want the factorial of: ");
     scanf("%d",&n);
+    if(n<0)
+    factorial= 0;
+    else{
     factorial=1;
     for(int i=1;i<=n;i++){
         factorial*=i;
     }
     printf("\nFactorial of %d is %d",n,factorial);
-}
+}}
 void p0wer(){
     double base;
     double p;
