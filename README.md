@@ -3,3 +3,6 @@
 
 #### C Cpp check
 [![cppcheck](https://github.com/Ankarvaishnavi/M1_ProjectGoal_-App-/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/Ankarvaishnavi/M1_ProjectGoal_-App-/actions/workflows/c-cpp.yml)
+
+#### Testing
+[![UnitTesting](https://github.com/Ankarvaishnavi/M1_ProjectGoal_-App-/actions/workflows/cpp1.yml/badge.svg)](https://github.com/Ankarvaishnavi/M1_ProjectGoal_-App-/actions/workflows/cpp1.yml)
