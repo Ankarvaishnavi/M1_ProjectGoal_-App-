@@ -36,10 +36,15 @@ We can you scientific operation as well as basic operation. The technology is in
 | LLR02 | The list of operation shall display to the user |
 
 ## 4 W's 1 H
-- What: Scientific calculator
-- Where: School, labs etc.
-- When: While performing any calculations
-- Why: To get a quick answer of the mathematical operation
-- How: It will ask input from the user like it will ask for any number to choose any operator and then it will as for the numbers which are to be operated 
+### What?
+-  Scientific calculator
+### Where?
+- School, labs etc.
+### When? 
+- While performing any calculations
+### Why? 
+- To get a quick answer of the mathematical operation
+### How? 
+- It will ask input from the user like it will ask for any number to choose any operator and then it will as for the numbers which are to be operated 
 
 
