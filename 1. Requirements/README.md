@@ -22,13 +22,18 @@ We can you scientific operation as well as basic operation. The technology is in
 
 
 ## High level requirement
-- Should be able to implement operation
-- Should give the correct output
-- The user must be able to see the operation list
-- The user must be able to select the proper operation
+| ID | High level requirements |
+| -- | --------------- |
+| HLR01 | Shall be able to implement operation |
+| HLR02 | Shall give the correct output |
+| HLR03 | The user must be able to see the operation list |
+| HLR04 | The user must be able to select the proper operation |
 
 ## Low level requirement
-- Program should run properly
+| ID | Low level requirements |
+| -- | --------- |
+| LLR01 | Program in operation.h file shall be implement correctly |
+| LLR02 | The list of operation shall display to the user |
 
 ## 4 W's 1 H
 - What: Scientific calculator
