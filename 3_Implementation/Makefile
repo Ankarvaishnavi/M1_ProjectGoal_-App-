@@ -21,9 +21,7 @@ else
     endif
 endif	
 
-	  
-
-	
+	  	
 
 INC=-Iinc\
 -Iunity\
