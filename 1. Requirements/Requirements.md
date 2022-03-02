@@ -14,11 +14,14 @@ https://www.javatpoint.com/calculator-program-in-c
 
 ## Swot Analysis:
 #### Sreangth 
-This scientific calculator is easy to handle and innovative 
+- This scientific calculator is easy to handle and innovative 
 #### Weakness
-It does not include trigometric functions, exponents, log and natural log
+- It does not include trigometric functions, exponents, log and natural log
 #### Opportunities
-We can you scientific operation as well as basic operation. The technology is involved marketing
+- We can you scientific operation as well as basic operation. The technology is involved marketing
+#### Threats
+- This is the basic calculator where trignometric calculations cannot be done
+
 
 
 ## High level requirement
