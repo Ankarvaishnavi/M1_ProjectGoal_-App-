@@ -1,22 +1,10 @@
-/**
- * @file main.c
- * @author vaishnavi ankar (vaishnaviankar2@gmail.com)
- * @brief To make a scientific calculator for doing some mathematical operations
- * @version 0.1
- * @date 2022-02-10
- * 
- * @copyright Copyright (c) 2022
- * 
- */
-#include<stdio.h>
-#include<math.h>
-#include <stdlib.h>
+#include "operation.h"
 
 void addition(){
     printf("Enter the numbers you want to add: ");
     int number1, number2;
     scanf("%d%d",&number1, &number2);
-    printf("The sum of number1 and number2 is %d\n", number1+number2);    
+    printf("The sum of number1 and number2 is %d\n", number1+number2);
 }
 void subtraction(){
     printf("Enter the numbers you want to subtract: ");

@@ -19,29 +19,16 @@ void tearDown()
 {
     
 }
-int main(){
-    UNITY_BEGIN();
-    RUN_TEST(test_add);
-    RUN_TEST(test_subtract);
-    RUN_TEST(test_multiply);
-    RUN_TEST(test_modulus);
-    RUN_TEST(test_divide);
-    RUN_TEST(test_fact);
-    RUN_TEST(test_p0wer);
-    RUN_TEST(test_square);
-    RUN_TEST(test_cube);
-     
-    return UNITY_END();
-    }
+
 void test_add(void){
-    int number1, number2;
+    int number1=9, number2=2;
     int compute=number1+number2;
     TEST_ASSERT_EQUAL(number1+number2, compute);
 
 }
 
 void test_subtract(void){
-    int number1, number2;
+    int number1=8, number2=4;
     int compute=number1-number2;
     TEST_ASSERT_EQUAL(number1-number2, compute);
 
@@ -94,3 +81,19 @@ void test_cube(void){
     TEST_ASSERT_EQUAL(pow(b,3),p);
 }
 
+
+
+int main(){
+    UNITY_BEGIN();
+    RUN_TEST(test_add);
+    RUN_TEST(test_subtract);
+    RUN_TEST(test_multiply);
+    RUN_TEST(test_modulus);
+    RUN_TEST(test_divide);
+    RUN_TEST(test_fact);
+    RUN_TEST(test_p0wer);
+    RUN_TEST(test_square);
+    RUN_TEST(test_cube);
+     
+    return UNITY_END();
+    }

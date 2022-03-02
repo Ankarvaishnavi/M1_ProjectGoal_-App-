@@ -10,21 +10,8 @@
  */
 
 #include "operation.h" // Prefered for user header files
-#include<stdio.h>
-#include<stdlib.h>
-#include<math.h>
 
 
-void addition();
-void subtraction();
-void multiplication();
-void division();
-void modulus();
-void factorial();
-void p0wer();
-void square();
-void cube();
-void squareroot();
 void main(){
     
     
