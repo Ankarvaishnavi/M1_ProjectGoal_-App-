@@ -6,7 +6,7 @@ src/operations.c\
 
 TEST_SRC=src/operations.c\
 src/test_calculator.c\
-unity/unity.c\
+Unity/unity.c\
 
 
 ifdef OS
@@ -26,7 +26,7 @@ endif
 	
 
 INC=-Iinc\
--Iunity\
+-IUnity\
 
 Build: 
 	gcc $(SRC) $(INC) -o $(call FixPath,$(PROJ_NAME).$(EXEC)) -lm
