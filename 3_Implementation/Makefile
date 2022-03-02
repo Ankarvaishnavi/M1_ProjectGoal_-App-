@@ -34,7 +34,7 @@ run:Build
 
 Build_test: 
 	gcc $(TEST_SRC) $(INC) -o $(call FixPath,$(PROJ_NAME).$(EXEC)) -lm
-run_test:Build_test
+test:Build_test
 	./$(call FixPath,$(PROJ_NAME).$(EXEC))
 
 Clean:
