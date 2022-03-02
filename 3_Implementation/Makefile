@@ -6,7 +6,7 @@ src/operations.c\
 
 TEST_SRC=src/operations.c\
 src/test_calculator.c\
-unity/unity.c\
+Unity/unity.c\
 
 
 ifdef OS
