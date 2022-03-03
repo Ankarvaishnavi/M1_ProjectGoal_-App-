@@ -1,4 +1,4 @@
-name: Valgrind
+name: Dynamiccheck
 
 on:
   push:
@@ -20,4 +20,3 @@ jobs:
         sudo apt-get -y install libcunit1 libcunit1-doc libcunit1-dev   
     - name: Dynamic Analysis
       run: make dynamic_analysis -C 3_Implementation
- 
