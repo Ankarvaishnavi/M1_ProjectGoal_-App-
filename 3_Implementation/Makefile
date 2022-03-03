@@ -37,6 +37,8 @@ Build_test:
 test:Build_test
 	./$(call FixPath,$(PROJ_NAME).$(EXEC))
 
+dynamic_analysis: Build
+	valgrind ./$(call FixPath,$(PROJ_NAME).$(EXEC))
 Clean:
 	rm -rf *.o *.out *.i *.s
 
