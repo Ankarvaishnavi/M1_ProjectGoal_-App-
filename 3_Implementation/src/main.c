@@ -13,7 +13,10 @@
 
 
 void main(){
-    
+/**
+ * @brief To take input from the user
+ * 
+ */
     
     printf("\t\tWelcome to the scientific calculator!!\n\n");
     int choice;
