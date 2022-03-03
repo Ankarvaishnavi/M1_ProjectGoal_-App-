@@ -18,7 +18,7 @@ This repository contains the details about the project
 
 
 
-## Badeges gained
+## Badeges 
 
 | ID | Badges |
 | -- | ----- |
