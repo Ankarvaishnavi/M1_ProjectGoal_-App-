@@ -24,7 +24,7 @@ endif
 	  	
 
 INC=-Iinc\
--Iunity\
+-IUnity\
 
 Build: 
 	gcc $(SRC) $(INC) -o $(call FixPath,$(PROJ_NAME).$(EXEC)) -lm

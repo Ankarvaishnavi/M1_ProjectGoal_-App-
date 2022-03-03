@@ -18,7 +18,7 @@ This repository contains the details about the project
 
 
 
-## Badeges gained
+## Badeges 
 
 | ID | Badges |
 | -- | ----- |
@@ -26,3 +26,4 @@ This repository contains the details about the project
 | C Cpp check | [![cppcheck](https://github.com/Ankarvaishnavi/M1_ProjectGoal_-App-/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/Ankarvaishnavi/M1_ProjectGoal_-App-/actions/workflows/c-cpp.yml) |
 | Testing | [![UnitTesting](https://github.com/Ankarvaishnavi/M1_ProjectGoal_-App-/actions/workflows/cpp1.yml/badge.svg)](https://github.com/Ankarvaishnavi/M1_ProjectGoal_-App-/actions/workflows/cpp1.yml) |
 | Build | [![C/C++ CI](https://github.com/Ankarvaishnavi/M1_ProjectGoal_-App-/actions/workflows/Build.yml/badge.svg)](https://github.com/Ankarvaishnavi/M1_ProjectGoal_-App-/actions/workflows/Build.yml) |
+| Valgrind | [![Valgrind](https://github.com/Ankarvaishnavi/M1_ProjectGoal_-App-/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/Ankarvaishnavi/M1_ProjectGoal_-App-/actions/workflows/Valgrind.yml) |
