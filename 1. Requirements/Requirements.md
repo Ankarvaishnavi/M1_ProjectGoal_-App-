@@ -4,13 +4,17 @@
 
 This is the calculator where the user can implement basics operations as well as scientific operations such as addition, subtraction, multiplication, division, square, cube, modulus, factorial, power and square root. Any simple calculator can only operate four operations.
 It will operate according to the order to precedence.
- 
+
+## Identifying features
+- Guides how to enter the details
+- User friendly interface
+- Shows the list of operations and gives option to select a particular operation
 
 ## Research:
-https://www.knowprogram.com/c-programming/simple-calculator-program-c
+- https://www.knowprogram.com/c-programming/simple-calculator-program-c
 
 Javapoint Documentation
-https://www.javatpoint.com/calculator-program-in-c
+- https://www.javatpoint.com/calculator-program-in-c
 
 ## Swot Analysis:
 #### Sreangth 
